@@ -11,10 +11,28 @@
 - 📫 How to reach me: 
 
   - Send me a Direct Message on [Discord](https://discord.com): [`liner#6954`](https://discord.com/users/923915325668487190)
+    
     <center>
       <a href=#>
         <img src="https://discord.c99.nl/widget/theme-1/923915325668487190.png" 
-        style='padding: 5px'
+        style='padding: 5px'>
       </a>
     </center>
   - Write me an e-mail (please not spam) liner@internet.ru
+
+### 📊 GitHub Stats
+![liner](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-liner&theme=github)
+
+### 🏆 GitHub Profile Trophy
+<center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width=900 src="https://github-profile-trophy.vercel.app/?username=r-liner&column=8&no-frame=false&no-bg=true&margin-w=10"/>
+  </a>
+</center>
+
+###
+<p align="center">
+  <a href="github.com/r-liner" text-align=center>
+     <img src="https://komarev.com/ghpvc/?username=r-liner&style=for-the-badge" alt=r-liner>
+  </a>
+</p>
