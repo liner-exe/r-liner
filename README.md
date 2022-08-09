@@ -10,7 +10,7 @@
 - 🔭 I'm currently working on: [discord-bot-ru](https://github.com/r-liner/discord-bot-ru) and [r-liner.github.io](https://github.com/r-liner/r-liner.github.io)
 - 📫 How to reach me: 
 
-  - Send me a Direct Message on [Discord](https://discord.com): [`liner#6954`](https://discord.com/users/923915325668487190)
+  - Send me a Direct Message on [Discord](https://discord.com): [`liner#9544`](https://discord.com/users/923915325668487190)
     
     <center>
       <a href=#>
