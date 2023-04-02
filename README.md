@@ -1,5 +1,5 @@
 ### Hi there, my name is Roman! 👋
-#### I'm a 16 y.o programmer from Russia. </br> I started programming in February 2021. My main language is [C++](https://isocpp.org/) and additional is [Python](https://python.org).
+#### I'm a 17 y.o programmer from Russia. </br> I started programming in February 2021. My main language is [C++](https://isocpp.org/) and additional is [Python](https://python.org).
 
 <p align="center">
   <a href="https://discord.com/users/923915325668487190" target="_blank">
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🔭 I'm currently working on: [discord-bot-ru](https://github.com/r-liner/discord-bot-ru) and [r-liner.github.io](https://github.com/r-liner/r-liner.github.io)
+- 🔭 I'm currently working on: none
 - 📫 How to reach me: 
 
   - Send me a Direct Message on [Discord](https://discord.com): [`liner#9544`](https://discord.com/users/923915325668487190)
