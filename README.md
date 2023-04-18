@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🔭 I'm currently working on: none
+- 🔭 I'm currently working on: [discord-bot-ru](https://github.com/r-liner/discord-bot-ru)
 - 📫 How to reach me: 
 
   - Send me a Direct Message on [Discord](https://discord.com): [`liner#9544`](https://discord.com/users/923915325668487190)
