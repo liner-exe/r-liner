@@ -1,4 +1,4 @@
-### Hi there, my name is Roman! 👋
+### Hi there. I`m Roman! 👋
 #### I'm a 17 y.o programmer from Russia. </br> I started programming in February 2021. My main language is [C++](https://isocpp.org/) and additional is [Python](https://python.org).
 
 <p align="center">
@@ -21,10 +21,12 @@
   - Write me an e-mail (please not spam) liner@internet.ru
 - 😄 Pronouns: `he`/`him`
 
-### 📊 GitHub Stats
+# 💾 Tech Stack
+- <img src="https://img.shields.io/badge/-WINDOWS-blue?style=for-the-badge&logo=windows" alt="windows">
+# 📊 GitHub Stats
 ![liner](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-liner&theme=github)
 
-### 🏆 GitHub Profile Trophy
+# 🏆 GitHub Profile Trophy
 <center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width=900 src="https://github-profile-trophy.vercel.app/?username=r-liner&column=8&no-frame=false&no-bg=true&margin-w=10"/>
