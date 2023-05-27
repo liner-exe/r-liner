@@ -24,10 +24,17 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 - ![Python](https://img.shields.io/badge/-PYTHON-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=FECF40)
 ![C++](https://img.shields.io/badge/-C%2B%2B-014981?style=for-the-badge&logo=c%2B%2B&l&labelColor=004383)
-- ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+- ![Unreal Engine](https://img.shields.io/badge/-UNREAL%20ENGINE-313131?style=for-the-badge&logo=unreal-engine)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 - ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-![https://img.shields.io/badge/-NEXTCORD-blue?style=for-the-badge](https://img.shields.io/badge/-NEXTCORD-blue?style=for-the-badge)
+![Nextcord](https://img.shields.io/badge/-NEXTCORD-blue?style=for-the-badge)
+
+# 💡 Learning
+![Python](https://img.shields.io/badge/-PYTHON-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=FECF40)
+![C++](https://img.shields.io/badge/-C%2B%2B-014981?style=for-the-badge&logo=c%2B%2B&l&labelColor=004383)
+![Unreal Engine](https://img.shields.io/badge/-UNREAL%20ENGINE-313131?style=for-the-badge&logo=unreal-engine)
+![Nextcord](https://img.shields.io/badge/-NEXTCORD-blue?style=for-the-badge)
+
 # 📊 GitHub Stats
 ![liner](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-liner&theme=github)
 
