@@ -20,7 +20,7 @@
   - Write me an e-mail (please not spam) liner@internet.ru
 - 😄 Pronouns: `he`/`him`
 
-<-- https://github.com/Ileriayo/markdown-badges  some of badges took from the repo -->
+<!-- https://github.com/Ileriayo/markdown-badges  some of badges took from the repo -->
  
 # 💾 Tech Stack
 - ![Windows](https://img.shields.io/badge/-WINDOWS-blue?style=for-the-badge&logo=windows)
