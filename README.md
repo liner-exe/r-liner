@@ -17,7 +17,6 @@
  
 # 💾 Tech Stack
 - ![Windows](https://img.shields.io/badge/-WINDOWS-blue?style=for-the-badge&logo=windows)
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 - ![Visual Studio](https://img.shields.io/badge/-VISUAL%20STUDIO-blueviolet?style=for-the-badge&logo=visualstudio)
 ![PyCharm](https://img.shields.io/badge/-PYCHARM-black?style=for-the-badge&logo=pycharm&labelColor=green)
 ![CLion](https://img.shields.io/badge/-CLION-black?style=for-the-badge&logo=clion&labelColor=9cf)
