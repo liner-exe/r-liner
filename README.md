@@ -35,16 +35,22 @@
 ![Nextcord](https://img.shields.io/badge/-NEXTCORD-blue?style=for-the-badge)
 
 # 📊 GitHub Stats
-![liner](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-liner&theme=github)
+<div align="center">
+  
+  [![liner](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-liner&theme=github)](github.com/r-liner)
+  
+  [![Github Stats](https://github-readme-stats.vercel.app/api?username=r-liner&show_icons=true&theme=default)](github.com/r-liner)
+  
+</div>
 
 # 🏆 GitHub Profile Trophy
-<center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<div align="center">
+  <a href="github.com/r-liner">
     <img width=900 src="https://github-profile-trophy.vercel.app/?username=r-liner&column=8&no-frame=false&no-bg=true&margin-w=10"/>
   </a>
-</center>
+</div>
 
-###
+
 <p align="center">
   <a href="github.com/r-liner" text-align=center>
      <img src="https://komarev.com/ghpvc/?username=r-liner&style=for-the-badge" alt=r-liner>
