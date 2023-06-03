@@ -45,14 +45,14 @@
 
 # 🏆 GitHub Profile Trophy
 <div align="center">
-  <a href="github.com/r-liner">
+  <a href="https://github.com/r-liner">
     <img width=900 src="https://github-profile-trophy.vercel.app/?username=r-liner&column=8&no-frame=false&no-bg=true&margin-w=10"/>
   </a>
 </div>
 
 
 <p align="center">
-  <a href="github.com/r-liner" text-align=center>
+  <a href="https://github.com/r-liner" text-align=center>
      <img src="https://komarev.com/ghpvc/?username=r-liner&style=for-the-badge" alt=r-liner>
   </a>
 </p>
