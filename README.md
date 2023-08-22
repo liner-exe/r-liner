@@ -1,4 +1,5 @@
-# Hi, I`m LINER! 👋
+# Hi, I`m [LINER]! 👋
+[LINER]:https://github.com/r-liner
 
 <p align="center">
   <a href="https://discord.com/users/923915325668487190" target="_blank">
