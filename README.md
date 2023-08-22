@@ -1,4 +1,4 @@
-### Hi there. I`m LINER! 👋
+# Hi, I`m LINER! 👋
 
 <p align="center">
   <a href="https://discord.com/users/923915325668487190" target="_blank">
@@ -15,7 +15,7 @@
 
 <!-- https://github.com/Ileriayo/markdown-badges  some of badges took from the repo -->
  
-# 💾 Tech Stack
+## 💾 Tech Stack
 - **OS** <br> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/-WINDOWS-blue?style=for-the-badge&logo=windows)
 - **IDEs** <br> ![Visual Studio](https://img.shields.io/badge/-VISUAL%20STUDIO-blueviolet?style=for-the-badge&logo=visualstudio)
@@ -36,11 +36,13 @@
 <br>
 
 # 📊 GitHub Stats
-<div align="center">
+<div>
   
-  [![liner](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-liner&theme=github)](github.com/r-liner)
+  [![liner](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-liner&theme=2077)](github.com/r-liner)
+  [![liner](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-liner&theme=2077)](github.com/r-liner)
+  [![liner](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-liner&theme=2077)](github.com/r-liner)
   
-  [![Github Stats](https://github-readme-stats.vercel.app/api?username=r-liner&show_icons=true&theme=default)](github.com/r-liner)
+  <!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=r-liner&show_icons=true&theme=default)](github.com/r-liner) -->
   
 </div>
 <br>
@@ -48,7 +50,7 @@
 # 🏆 GitHub Profile Trophy
 <div align="center">
   <a href="https://github.com/r-liner">
-    <img width=900 src="https://github-profile-trophy.vercel.app/?username=r-liner&column=8&no-frame=false&no-bg=true&margin-w=10"/>
+    <img width=1000 src="https://github-profile-trophy.vercel.app/?username=r-liner&column=8&no-frame=false&no-bg=true&margin-w=10"/>
   </a>
 </div>
 <br><br>
@@ -58,6 +60,8 @@
      <img src="https://komarev.com/ghpvc/?username=r-liner&style=for-the-badge" alt=r-liner'>
   </a>
 </p>
+
+###### I will supplement this information..
 
 <!--
 **r-liner/r-liner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
