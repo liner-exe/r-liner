@@ -1,4 +1,4 @@
-### Hi there. I`m Roman! 👋
+### Hi there. I`m LINER! 👋
 
 <p align="center">
   <a href="https://discord.com/users/923915325668487190" target="_blank">
@@ -16,23 +16,24 @@
 <!-- https://github.com/Ileriayo/markdown-badges  some of badges took from the repo -->
  
 # 💾 Tech Stack
-- ![Windows](https://img.shields.io/badge/-WINDOWS-blue?style=for-the-badge&logo=windows)
-- ![Visual Studio](https://img.shields.io/badge/-VISUAL%20STUDIO-blueviolet?style=for-the-badge&logo=visualstudio)
+- **OS** <br> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Windows](https://img.shields.io/badge/-WINDOWS-blue?style=for-the-badge&logo=windows)
+- **IDEs** <br> ![Visual Studio](https://img.shields.io/badge/-VISUAL%20STUDIO-blueviolet?style=for-the-badge&logo=visualstudio)
 ![PyCharm](https://img.shields.io/badge/-PYCHARM-black?style=for-the-badge&logo=pycharm&labelColor=green)
 ![CLion](https://img.shields.io/badge/-CLION-black?style=for-the-badge&logo=clion&labelColor=9cf)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-- ![Python](https://img.shields.io/badge/-PYTHON-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=FECF40)
+- **Programming Langs** <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/-C%2B%2B-014981?style=for-the-badge&logo=c%2B%2B&l&labelColor=004383)
-- ![Unreal Engine](https://img.shields.io/badge/-UNREAL%20ENGINE-313131?style=for-the-badge&logo=unreal-engine)
+- **Game Engines** <br> ![Unreal Engine](https://img.shields.io/badge/-UNREAL%20ENGINE-313131?style=for-the-badge&logo=unreal-engine)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-- ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-![Nextcord](https://img.shields.io/badge/-NEXTCORD-blue?style=for-the-badge)
+- **Other** <br> ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+<br>
 
 # 💡 Learning
-![Python](https://img.shields.io/badge/-PYTHON-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=FECF40)
-![C++](https://img.shields.io/badge/-C%2B%2B-014981?style=for-the-badge&logo=c%2B%2B&l&labelColor=004383)
+- **In process** <br> ![Python](https://img.shields.io/badge/-PYTHON-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=FECF40)
+- **Paused** <br> ![C++](https://img.shields.io/badge/-C%2B%2B-014981?style=for-the-badge&logo=c%2B%2B&l&labelColor=004383)
 ![Unreal Engine](https://img.shields.io/badge/-UNREAL%20ENGINE-313131?style=for-the-badge&logo=unreal-engine)
-![Nextcord](https://img.shields.io/badge/-NEXTCORD-blue?style=for-the-badge)
+<br>
 
 # 📊 GitHub Stats
 <div align="center">
@@ -42,6 +43,7 @@
   [![Github Stats](https://github-readme-stats.vercel.app/api?username=r-liner&show_icons=true&theme=default)](github.com/r-liner)
   
 </div>
+<br>
 
 # 🏆 GitHub Profile Trophy
 <div align="center">
@@ -49,11 +51,11 @@
     <img width=900 src="https://github-profile-trophy.vercel.app/?username=r-liner&column=8&no-frame=false&no-bg=true&margin-w=10"/>
   </a>
 </div>
-
+<br><br>
 
 <p align="center">
   <a href="https://github.com/r-liner" text-align=center>
-     <img src="https://komarev.com/ghpvc/?username=r-liner&style=for-the-badge" alt=r-liner>
+     <img src="https://komarev.com/ghpvc/?username=r-liner&style=for-the-badge" alt=r-liner'>
   </a>
 </p>
 
