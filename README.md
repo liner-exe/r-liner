@@ -32,7 +32,8 @@
 
 # 💡 Learning
 - **In process** <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- **Paused** <br> ![C++](https://img.shields.io/badge/-C%2B%2B-014981?style=for-the-badge&logo=c%2B%2B&l&labelColor=004383)
+![C++](https://img.shields.io/badge/-C%2B%2B-014981?style=for-the-badge&logo=c%2B%2B&l&labelColor=004383)
+- **Paused** <br>
 ![Unreal Engine](https://img.shields.io/badge/-UNREAL%20ENGINE-313131?style=for-the-badge&logo=unreal-engine)
 <br>
 
