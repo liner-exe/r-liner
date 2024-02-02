@@ -7,12 +7,14 @@
   </a>
 </p>
 
+<!-- 
 <p align="center">
   <a href=#>
     <img src="https://discord.c99.nl/widget/theme-1/923915325668487190.png" 
         style='padding: 5px'>
    </a>
-</p>
+</p> 
+-->
 
 <!-- https://github.com/Ileriayo/markdown-badges  some of badges took from the repo -->
  
