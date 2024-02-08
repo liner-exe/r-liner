@@ -18,23 +18,27 @@
 
 <!-- https://github.com/Ileriayo/markdown-badges  some of badges took from the repo -->
  
-## 💾 Tech Stack
+# 💾 Tech Stack
 - **OS** <br> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/-WINDOWS-blue?style=for-the-badge&logo=windows)
-- **IDEs** <br> ![Visual Studio](https://img.shields.io/badge/-VISUAL%20STUDIO-blueviolet?style=for-the-badge&logo=visualstudio)
-![PyCharm](https://img.shields.io/badge/-PYCHARM-black?style=for-the-badge&logo=pycharm&labelColor=green)
-![CLion](https://img.shields.io/badge/-CLION-black?style=for-the-badge&logo=clion&labelColor=9cf)
+- **IDEs/Editors** <br> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-VISUAL%20STUDIO-blueviolet?style=for-the-badge&logo=visualstudio)
+![PyCharm](https://img.shields.io/badge/-PYCHARM-black?style=for-the-badge&logo=pycharm&labelColor=green) <br>
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 - **Programming Langs** <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/-C%2B%2B-014981?style=for-the-badge&logo=c%2B%2B&l&labelColor=004383)
+- **Version Control** <br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - **Game Engines** <br> ![Unreal Engine](https://img.shields.io/badge/-UNREAL%20ENGINE-313131?style=for-the-badge&logo=unreal-engine)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-- **Other** <br> ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 <br>
 
 # 💡 Learning
-- **In process** <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/-C%2B%2B-014981?style=for-the-badge&logo=c%2B%2B&l&labelColor=004383)
+- **In process** <br> ![C++](https://img.shields.io/badge/-C%2B%2B-014981?style=for-the-badge&logo=c%2B%2B&l&labelColor=004383)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - **Paused** <br>
 ![Unreal Engine](https://img.shields.io/badge/-UNREAL%20ENGINE-313131?style=for-the-badge&logo=unreal-engine)
 <br>
