@@ -1,4 +1,4 @@
-# Hi, I`m [LINER]! 👋
+# Hey, I`m [LINER]! 👋
 [LINER]:https://github.com/r-liner
 
 <p align="center">
